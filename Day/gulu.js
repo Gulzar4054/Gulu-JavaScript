@@ -1,1 +1,1 @@
-console.log("Gulu");
+console.log("Gul2u");
