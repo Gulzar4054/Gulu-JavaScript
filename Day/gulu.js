@@ -1,2 +1,2 @@
-console.log("Gul2u");
+console.log("Gulu");
 console.log("Gulu");
