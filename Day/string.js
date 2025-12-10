@@ -35,4 +35,5 @@ let arr = ["gulzar","huSsain","yTzone"];
 
 let newarr = arr.join("_");
 console.log(newarr);
-
+console.log(newarr.repeat(5));
+console.table({name, value, Website, url, name2, arr, newarr});
